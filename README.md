@@ -27,7 +27,7 @@ The analysis is based on a consolidated dataset of approximately 49,000 transact
 - Customer preference for payment methods is balanced, with nearly equal distribution among Credit Card, Bank Transfer, and PayPal.
 
 ## Dashboard
-![Dashboard](Dashboard.PNG)
+![Dashboard](dashboard.PNG)
 
 [Link to the Live dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjUwYzg1YzAtYzI2NC00NmMzLWI2NmMtNDg1NWQwMjcxYTZjIiwidCI6ImFlZjQ4N2NhLTM0NjgtNDk4MC1iZGRhLWEzMjc1MGFmYzVmMyJ9)
 
