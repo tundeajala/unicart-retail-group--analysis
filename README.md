@@ -3,7 +3,7 @@
 ![Header Image](header-image.PNG)
 
 ## Executive Summary
-This analysis evaluates Unicart Retail Group’s sales performance from 2020 - 2025. It identifies patterns in monthly sales trends, provides insights into sales performance by product category and sales method and highlights key growth drivers as well as areas of concern such as sales, orders, customers and return rates.
+This project analyzes over 49,000 retail transactions to uncover key revenue drivers, customer behavior patterns, and operational inefficiencies at Unicart Retail Group between 2020 and 2025.
 
 ## Business Context
 Unicart Retail Group’s management requires clear, data-driven reporting of their sales performance at the transaction level. The objective is to understand performance in order to support informed business decisions and optimize operations.
@@ -21,7 +21,7 @@ The analysis is based on a consolidated dataset of approximately 49,000 transact
 ![Data Preview Image](data-preview.PNG)
 
 ## Key Findings
-- Average annual sales are approximately $10M.
+- Average annual revenue is approximately $10M, with steady growth across most years, indicating stable business expansion despite a temporary dip in 2022.
 - Annual sales have shown a consistent increase, except in 2022, when there was a 1.18% decline.
 - Products in the Electronic Gadget category contribute significantly more to sales than other categories.
 - Customer preference for payment methods is balanced, with nearly equal distribution among Credit Card, Bank Transfer, and PayPal.
@@ -66,9 +66,9 @@ The analysis is based on a consolidated dataset of approximately 49,000 transact
 - This pattern of closely clustered sales values has remained consistent over the years.
 
 ## Recommendations
-- Continue implementing policies introduced in 2024, which have successfully reduced the high return rate recorded in 2023.
-- Promote products in Apparel, Kitchen Utensil, Furniture, Electronics, Accessories and Home decor categories, as they consistently underperform compared to others. Increased promotions and visibility will be beneficial.
-- Expand efforts in the US market, where performance has remained relatively flat over the past five years. Greater awareness and presence in this market could significantly boost sales.
+- Sustain current return-reduction strategies implemented in 2024, as they have reduced return rates from +7.2% in 2023 to 1.87% in 2025.
+- Increase marketing and promotional efforts for underperforming categories (Apparel, Furniture, Home Decor), which consistently generate 30–40% less revenue than Electronic Gadgets.
+- Expand market penetration strategies in the US, where revenue growth has remained flat, indicating untapped potential compared to other regions.
 
 ## Tools Used
 - Power Query: Data cleaning and transformation
