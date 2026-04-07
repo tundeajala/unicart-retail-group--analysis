@@ -74,5 +74,12 @@ The analysis is based on a consolidated dataset of approximately 49,000 transact
 - Power Query: Data cleaning and transformation
 - Power BI: Data analysis and visualization
 
+## Skills Demonstrated
+- Data Cleaning and Transformation (Power Query)
+- Data Modeling
+- DAX Calculations
+- Data Visualization (Power BI)
+- Business Analysis and Insight Generation
+
 ## Conclusion
 Unicart Retail Group has maintained steady sales growth from 2020–2025, with strong contributions from the Electronic Gadget category and balanced customer preferences across payment methods. While return rates have improved since 2023, underperforming product categories and the untapped potential in the US market present clear opportunities for growth. Strengthening these areas will position Unicart Retail Group for sustained performance in the years ahead.
